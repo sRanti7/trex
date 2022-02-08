@@ -1,2 +1,1 @@
-# trex
-juego trex runner pero en movile
+# C18_LP_AA1
